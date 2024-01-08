@@ -9,4 +9,4 @@ Mata Kuliah Logika Fuzzy
 1. Install Numpy dulu
 
 ## Output
-![output](https://github.com/pausia/Implementasi-K-Means-dan-Fuzzy-C-Means/blob/main/screenshot/input-c-means.png?raw=true)
+![output](https://github.com/pausia/Implementasi-JST-HERB-pada-Parabola-dataset/blob/main/output.png?raw=true)
